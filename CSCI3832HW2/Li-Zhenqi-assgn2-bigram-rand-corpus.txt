@@ -1,0 +1,100 @@
+<s> best </s>
+<s> do not want the santa-fe bar and sunday </s>
+<s> i want to go there for dinner </s>
+<s> the restaurant can you tell me about five </s>
+<s> show me </s>
+<s> for lunch or tuesday </s>
+<s> not cost of the <unk> food on saturday </s>
+<s> what about five dollars </s>
+<s> show me more than twenty dollars </s>
+<s> i want to eat american restaurants again </s>
+<s> indian food </s>
+<s> uh thank you show me more information on wednesday for dinner in lunch food </s>
+<s> i would like plearn thai restaurant </s>
+<s> where when is spats restaurant could you what are </s>
+<s> i find a wednesday </s>
+<s> any night </s>
+<s> i do you give me about cafe </s>
+<s> nine dollars </s>
+<s> uh dinner </s>
+<s> are there any price </s>
+<s> saturday </s>
+<s> no information about spats </s>
+<s> what kind of some more than ten dollars </s>
+<s> hunan </s>
+<s> dinner </s>
+<s> i would like to ten and i want indian food five dollars a mile </s>
+<s> do you give me if i drink a german tomorrow </s>
+<s> the list again </s>
+<s> can go to eat a sunday </s>
+<s> i would like to eat either saturday </s>
+<s> do you have european food on tuesday </s>
+<s> let's see the meal is there a thai cuisine </s>
+<s> i want to eat dinner menu </s>
+<s> i'd like to spend a mile of restaurants now </s>
+<s> how about edy's </s>
+<s> about plearn thai restaurant close by </s>
+<s> tell me a chinese food do you show me about <unk> pigs feet </s>
+<s> the berkeley thai cuisine restaurant </s>
+<s> cafe can i wanted russian restaurant called edy's </s>
+<s> is zachary's </s>
+<s> are there on monday </s>
+<s> could i want to know about the day this restaurant </s>
+<s> so i'm looking for lunch </s>
+<s> now i'd like to spend ten to eat chinese food </s>
+<s> how about cafe </s>
+<s> let's start over </s>
+<s> i don't want any good soup in a nice lunch </s>
+<s> not more than twenty minutes with a thousand dollars </s>
+<s> saturday night </s>
+<s> i want to inexpensive indian food </s>
+<s> no </s>
+<s> i'd like to have mediterranean food </s>
+<s> start over </s>
+<s> i start over </s>
+<s> do you have some more about pay </s>
+<s> show me additional information about au-coquelet </s>
+<s> i would like to eat on the list of thai food </s>
+<s> to spend between six </s>
+<s> okay computer are open for breakfast </s>
+<s> i'd like some chinese food </s>
+<s> i would like to eat today </s>
+<s> i would like to travel thirty dollars </s>
+<s> how much money </s>
+<s> what does not matter </s>
+<s> i want steak </s>
+<s> where is berkeley is spats </s>
+<s> today </s>
+<s> let's start over </s>
+<s> do not like to icsi and very expensive italian restaurants at the long as it's okay </s>
+<s> i'd like a good apple </s>
+<s> i have around one hour away and if you have a salad </s>
+<s> let's start over </s>
+<s> what other italian salads </s>
+<s> i want to eat barbecue </s>
+<s> what about anything <unk> <unk> to go on the distance </s>
+<s> i'd like to know of five blocks from icsi </s>
+<s> uh up to travel ten minutes from the more than five minutes away </s>
+<s> i want to walk to go for a middle eastern food in lunch </s>
+<s> a dinner on saturday </s>
+<s> about nakapan </s>
+<s> please show me about uh ten blocks of dollars </s>
+<s> on telegraph </s>
+<s> lunch at cafe </s>
+<s> i'm looking for a cheap </s>
+<s> want cajun restaurants that i would like </s>
+<s> i want american traditional american restaurant in the cost of any meal i'd like some more information on <unk> </s>
+<s> it does sujatha's sushi-sho </s>
+<s> please can you know more about shin-shin </s>
+<s> i get a vegetarian food </s>
+<s> i want to a distance </s>
+<s> i want to eat spanish food </s>
+<s> don't mind walking distance of restaurants have italian food </s>
+<s> anywhere any greek food </s>
+<s> do you know more </s>
+<s> let's try some place </s>
+<s> how about ten minutes from vietnam village </s>
+<s> i'd like the cost no no more information on sujatha's </s>
+<s> can i would like to twenty minutes </s>
+<s> let's start over </s>
+<s> i want restaurants </s>
